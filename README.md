@@ -26,3 +26,6 @@
 
 补充：
 推荐优先使用Telegraph-Image-old项目
+
+
+https://github.com/xhtwan/Telegraph-Image-old
