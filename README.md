@@ -3,7 +3,7 @@
 原项目：https://github.com/cf-pages/Telegraph-Image
 
 因添加了`wp.com`高速节点，防止滥用，没有fork
-不能手动上传，必须fork
+&&&&&不能手动上传，必须fork
 1.github  fork此项目，打开Cloudflare，进入Pages管理页面，选择创建项目，链接到git，选择fork项目，一直下一步最后部署站点，这就可以了。
 
 2.可以使用CF提供的xxx.pages.dev的免费二级域名直接访问，打开xxx.pages.dev就可以上传文件了，访问链接已经自动替换为国内高速访问链接，无需科学SW。
